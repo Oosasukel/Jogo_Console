@@ -11,3 +11,16 @@ C:\Users\rodri\Documents\GFT\GitHub\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo
 C:\Users\rodri\Documents\GFT\GitHub\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.dll
 C:\Users\rodri\Documents\GFT\GitHub\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.pdb
 C:\Users\rodri\Documents\GFT\GitHub\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.genruntimeconfig.cache
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\bin\Debug\netcoreapp3.1\Jogo3D_Terminal.exe
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\bin\Debug\netcoreapp3.1\Jogo3D_Terminal.deps.json
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\bin\Debug\netcoreapp3.1\Jogo3D_Terminal.runtimeconfig.json
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\bin\Debug\netcoreapp3.1\Jogo3D_Terminal.runtimeconfig.dev.json
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\bin\Debug\netcoreapp3.1\Jogo3D_Terminal.dll
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\bin\Debug\netcoreapp3.1\Jogo3D_Terminal.pdb
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.AssemblyInfo.cs
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.dll
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.pdb
+C:\Users\rodri\Documents\Repositorios\Jogo3D_Terminal\obj\Debug\netcoreapp3.1\Jogo3D_Terminal.genruntimeconfig.cache

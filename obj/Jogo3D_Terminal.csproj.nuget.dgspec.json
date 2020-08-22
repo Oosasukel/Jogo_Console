@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodri\\Documents\\GFT\\GitHub\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj": {}
+    "C:\\Users\\rodri\\Documents\\Repositorios\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodri\\Documents\\GFT\\GitHub\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj": {
+    "C:\\Users\\rodri\\Documents\\Repositorios\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodri\\Documents\\GFT\\GitHub\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj",
+        "projectUniqueName": "C:\\Users\\rodri\\Documents\\Repositorios\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj",
         "projectName": "Jogo3D_Terminal",
-        "projectPath": "C:\\Users\\rodri\\Documents\\GFT\\GitHub\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj",
+        "projectPath": "C:\\Users\\rodri\\Documents\\Repositorios\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodri\\Documents\\GFT\\GitHub\\Jogo3D_Terminal\\obj\\",
+        "outputPath": "C:\\Users\\rodri\\Documents\\Repositorios\\Jogo3D_Terminal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,12 +47,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

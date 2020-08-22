@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CRtePKxMp2Oy8j2VpRQvKoU24lrdami9b3GD7J/fOPbAW1lQ0747B9j+X2SevVyyXhOLP06xKNvzo6OhZH1PPw==",
+  "dgSpecHash": "TfFXL3E9NWeG0LF69N0QtV/Qwr3ms+pqbBkVkDE+k93M0s81V4AfUP9CfEwg8dPriVKr7pZ30DkPYCaqK5SbLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodri\\Documents\\GFT\\GitHub\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rodri\\Documents\\Repositorios\\Jogo3D_Terminal\\Jogo3D_Terminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
